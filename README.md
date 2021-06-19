@@ -1,3 +1,6 @@
+Read this https://docs.google.com/document/d/1IKbVEepAKnCsSWt6V1p4vhnFeRezgksLizjNdM-qU-U/edit?usp=sharing
+
+
 **Status:** Archive (code is provided as-is, no updates expected)
 
 # Learning to Summarize from Human Feedback
