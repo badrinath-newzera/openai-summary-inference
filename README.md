@@ -43,6 +43,8 @@ This will print some aggregate statistics and output scores for each sample to `
 
 # Human feedback data
 
+Downloaded Data: https://drive.google.com/drive/folders/1d69Ft796R2J_0AQQ8xE8YpCemLwvJzDV?usp=sharing
+
 We've released our human feedback dataset for further research. The dataset contains 64,832 summary
 comparisons on the TL;DR dataset, as well as our evaluation data on both
 TL;DR (comparisons and Likert scores) and CNN/DM (Likert scores).
